@@ -1,0 +1,772 @@
+# Copyright (C) 2026 Titan Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan Event Management 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/titan-event-management\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-08-14T05:01:18+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: titan-event-management\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Titan Event Management"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+#: about-theme/about-theme.php:8
+msgid "https://www.titanthemes.net/products/titan-event-management"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Titan Event Management Theme provides a structured website layout for presenting event information in a clear and organized format. It includes responsive design elements that adapt across desktop and mobile devices, helping maintain a consistent browsing experience. Homepage sections can display banners, schedules, galleries, testimonials, venue details, and contact information. The layout also supports content for event planners, wedding planners, corporate event planners, and conference organizers by allowing information to be arranged in dedicated sections without requiring major structural changes. Customization options include adjustable colors, typography, headers, footers, and page layouts to match different branding requirements. The theme supports image galleries, inquiry forms, maps, social media links, and newsletter subscription areas. Additional sections can be used for service details, speaker profiles, pricing, FAQs, and announcements. It is also suitable for organizing content related to wedding organizers, seminar organizers, exhibition organizers, and event management companies through flexible page structures. Clean code, straightforward navigation, and compatibility with commonly used page- building tools contribute to an organized website that is easy to maintain and update over time."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Titan Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.titanthemes.net/"
+msgstr ""
+
+#: about-theme/about-theme.php:9
+msgid "https://preview.titanthemes.net/documentation/titan-event-management-pro/"
+msgstr ""
+
+#: about-theme/about-theme.php:10
+msgid "https://wordpress.org/support/theme/titan-event-management/"
+msgstr ""
+
+#: about-theme/about-theme.php:11
+msgid "https://wordpress.org/support/theme/titan-event-management/reviews/"
+msgstr ""
+
+#: about-theme/about-theme.php:12
+msgid "https://www.titanthemes.net/products/event-management-wordpress-theme"
+msgstr ""
+
+#: about-theme/about-theme.php:13
+msgid "https://preview.titanthemes.net/documentation/titan-event-management-free/"
+msgstr ""
+
+#: about-theme/about-theme.php:14
+msgid "https://preview.titanthemes.net/titan-event-management-pro/"
+msgstr ""
+
+#: about-theme/about-theme.php:15
+msgid "https://www.titanthemes.net/products/wordpress-theme-bundle"
+msgstr ""
+
+#: about-theme/about-theme.php:93
+msgid "Welcome! Thank you for choosing %1$s."
+msgstr ""
+
+#: about-theme/about-theme.php:94
+msgid "Thank you for choosing this theme. Use the Get Started guide to quickly set up and personalize your website."
+msgstr ""
+
+#: about-theme/about-theme.php:96
+msgid "Get started with %s"
+msgstr ""
+
+#: about-theme/about-theme.php:97
+msgid "GO FOR PREMIUM"
+msgstr ""
+
+#: about-theme/about-theme.php:98
+#: inc/customizer.php:32
+msgid "GET BUNDLE"
+msgstr ""
+
+#: about-theme/about-theme.php:157
+msgid "UPGRADE TO PREMIUM"
+msgstr ""
+
+#: about-theme/about-theme.php:165
+msgid "PREMIUM DEMONSTRATION"
+msgstr ""
+
+#: about-theme/about-theme.php:166
+msgid "Effortlessly create and customize your website by arranging text, images, and other elements using the Gutenberg editor, making web design easy and accessible for all skill levels."
+msgstr ""
+
+#: about-theme/about-theme.php:168
+msgid "DEMONSTRATION"
+msgstr ""
+
+#: about-theme/about-theme.php:172
+#: about-theme/about-theme.php:175
+msgid "REVIEWS"
+msgstr ""
+
+#: about-theme/about-theme.php:173
+msgid "We would be happy to hear your thoughts and value your evaluation."
+msgstr ""
+
+#: about-theme/about-theme.php:179
+msgid "24/7 SUPPORT"
+msgstr ""
+
+#: about-theme/about-theme.php:180
+msgid "Please do not hesitate to contact us at support if you need help installing our lite theme. We are prepared to assist you!"
+msgstr ""
+
+#: about-theme/about-theme.php:182
+msgid "SUPPORT"
+msgstr ""
+
+#: about-theme/about-theme.php:186
+msgid "THEME INSTRUCTION"
+msgstr ""
+
+#: about-theme/about-theme.php:187
+msgid "If you need assistance configuring and setting up the theme, our tutorial is available. A fast and simple method for setting up the theme."
+msgstr ""
+
+#: about-theme/about-theme.php:189
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: about-theme/about-theme.php:197
+msgid "Get All Themes In Single Pack"
+msgstr ""
+
+#: about-theme/about-theme.php:198
+msgid "From customization to optimization, this bundle gives you the flexibility to create stunning websites."
+msgstr ""
+
+#: about-theme/about-theme.php:200
+msgid "BUY THEME BUNDLE"
+msgstr ""
+
+#: about-theme/about-theme.php:204
+msgid "logo"
+msgstr ""
+
+#: about-theme/about-theme.php:210
+msgid "The premium version of this theme will be available for you to enhance or unlock our premium features."
+msgstr ""
+
+#: about-theme/about-theme.php:215
+#: inc/customizer.php:24
+msgid "GO TO PREMIUM"
+msgstr ""
+
+#: about-theme/about-theme.php:220
+msgid "PREMIUM DEMO"
+msgstr ""
+
+#: about-theme/about-theme.php:225
+msgid "PRO DOCUMENTATION"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Titan Event Management Pro"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "All themes in Single Package"
+msgstr ""
+
+#: patterns/404-header-with-background.php
+msgctxt "Pattern title"
+msgid "404 Header With Background"
+msgstr ""
+
+#: patterns/404-header-with-background.php:16
+msgid "404 Not Found"
+msgstr ""
+
+#: patterns/about-section.php
+msgctxt "Pattern title"
+msgid "About Us Section"
+msgstr ""
+
+#: patterns/about-section.php:58
+msgid "15+"
+msgstr ""
+
+#: patterns/about-section.php:65
+msgid "Experience"
+msgstr ""
+
+#: patterns/about-section.php:84
+#: patterns/header.php:33
+msgid "About Us"
+msgstr ""
+
+#: patterns/about-section.php:93
+msgid "Creating lasting memories for every occasion is our number one priority"
+msgstr ""
+
+#: patterns/about-section.php:100
+msgid "With years of experience in event planning, our dedicated team specializes in designing exceptional events that reflect your unique style."
+msgstr ""
+
+#: patterns/about-section.php:130
+msgid "Experienced Event Coordinators"
+msgstr ""
+
+#: patterns/about-section.php:137
+#: patterns/about-section.php:180
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: patterns/about-section.php:173
+msgid "Creative Theme and Decoration"
+msgstr ""
+
+#: patterns/about-section.php:195
+msgid "Discover More"
+msgstr ""
+
+#: patterns/archive-header-with-background.php
+msgctxt "Pattern title"
+msgid "Archive Header With Background"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:48
+#: patterns/banner.php:107
+#: patterns/banner.php:166
+msgid "Professional Event Planning"
+msgstr ""
+
+#: patterns/banner.php:57
+msgid "Creating Unforgettable Events That Inspire Every Celebration"
+msgstr ""
+
+#: patterns/banner.php:64
+#: patterns/banner.php:123
+#: patterns/banner.php:182
+msgid "From corporate conferences and luxury weddings to private parties and large-scale festivals, we transform your vision into extraordinary experiences with flawless planning, creative execution, and attention to every detail."
+msgstr ""
+
+#: patterns/banner.php:73
+#: patterns/banner.php:132
+#: patterns/banner.php:191
+msgid "Plan Your Event"
+msgstr ""
+
+#: patterns/banner.php:116
+msgid "Turning Every Celebration Into an Unforgettable Experience"
+msgstr ""
+
+#: patterns/banner.php:175
+msgid "Elevating Every Celebration with Unforgettable Experiences"
+msgstr ""
+
+#: patterns/banner.php:242
+msgid "Happy Customer"
+msgstr ""
+
+#: patterns/banner.php:247
+msgid "10256+"
+msgstr ""
+
+#: patterns/blogs.php
+msgctxt "Pattern title"
+msgid "Blogs"
+msgstr ""
+
+#: patterns/blogs.php:18
+msgid "Latest Blogs & News"
+msgstr ""
+
+#: patterns/blogs.php:28
+msgid "View All"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr ""
+
+#: patterns/footer-default.php:22
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+msgstr ""
+
+#: patterns/footer-default.php:44
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer-default.php:49
+#: patterns/header.php:29
+msgid "Home"
+msgstr ""
+
+#: patterns/footer-default.php:53
+msgid "About us"
+msgstr ""
+
+#: patterns/footer-default.php:57
+#: patterns/header.php:35
+#: patterns/home-header-with-background.php:16
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer-default.php:61
+msgid "Page"
+msgstr ""
+
+#: patterns/footer-default.php:65
+msgid "Team"
+msgstr ""
+
+#: patterns/footer-default.php:69
+msgid "Project"
+msgstr ""
+
+#: patterns/footer-default.php:73
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer-default.php:80
+msgid "Information"
+msgstr ""
+
+#: patterns/footer-default.php:85
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-default.php:89
+msgid "Terms & Condition"
+msgstr ""
+
+#: patterns/footer-default.php:93
+msgid "Customer Service"
+msgstr ""
+
+#: patterns/footer-default.php:97
+msgid "My Account"
+msgstr ""
+
+#: patterns/footer-default.php:101
+msgid "Shipping & Returns"
+msgstr ""
+
+#: patterns/footer-default.php:105
+msgid "Wishlist"
+msgstr ""
+
+#: patterns/footer-default.php:112
+#: patterns/header.php:76
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-default.php:117
+msgid "14th Street, Caltech, New Jersey, Alabama"
+msgstr ""
+
+#: patterns/footer-default.php:121
+msgid "Monday - Friday  8:00 a.m. - 5:00 p.m."
+msgstr ""
+
+#: patterns/footer-default.php:125
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:129
+msgid "0123456789"
+msgstr ""
+
+#: patterns/footer-default.php:139
+msgid "Event Management WordPress Theme"
+msgstr ""
+
+#: patterns/footer-default.php:139
+msgid " | Proudly powered By "
+msgstr ""
+
+#: patterns/footer-default.php:139
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:31
+msgid "Gallery"
+msgstr ""
+
+#: patterns/header.php:37
+msgid "Contact Me"
+msgstr ""
+
+#: patterns/header.php:39
+msgid "Buy Now"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr ""
+
+#: patterns/hidden-404.php:13
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr ""
+
+#: patterns/hidden-404.php:19
+msgctxt "Message to convey that a webpage could not be found"
+msgid "This page could not be found."
+msgstr ""
+
+#: patterns/hidden-404.php:22
+#: patterns/hidden-no-results.php:14
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-404.php:22
+#: patterns/hidden-no-results.php:14
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/hidden-404.php:22
+#: patterns/hidden-no-results.php:14
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-comments.php
+msgctxt "Pattern title"
+msgid "Hidden Comments"
+msgstr ""
+
+#: patterns/hidden-comments.php:13
+msgctxt "Title of comments section"
+msgid "Comments"
+msgstr ""
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/home-header-with-background.php
+msgctxt "Pattern title"
+msgid "Home Header With Background"
+msgstr ""
+
+#: patterns/page-header-with-background.php
+msgctxt "Pattern title"
+msgid "Page Header With Background"
+msgstr ""
+
+#: patterns/post-header-with-background copy.php
+msgctxt "Pattern title"
+msgid "Post Header With Background"
+msgstr ""
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "Post Meta"
+msgstr ""
+
+#: patterns/post-meta.php:28
+msgctxt "Verb to explain the publication status of a post"
+msgid "Posted"
+msgstr ""
+
+#: patterns/post-meta.php:36
+msgctxt "Preposition to show the relationship between the post and its categories"
+msgid "in"
+msgstr ""
+
+#: patterns/post-meta.php:48
+msgctxt "Preposition to show the relationship between the post and its author"
+msgid "by"
+msgstr ""
+
+#: patterns/post-meta.php:64
+msgctxt "Label for a list of post tags"
+msgid "Tags:"
+msgstr ""
+
+#: patterns/related-post.php
+msgctxt "Pattern title"
+msgid "Related Post"
+msgstr ""
+
+#: patterns/related-post.php:10
+msgid "Related Posts :-"
+msgstr ""
+
+#: patterns/search-header-with-background.php
+msgctxt "Pattern title"
+msgid "Search Header With Background"
+msgstr ""
+
+#: patterns/search-header-with-background.php:17
+msgid "Search Page"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:32
+msgid "Popular Post"
+msgstr ""
+
+#: patterns/sidebar.php:52
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:62
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:72
+msgid "Follow Us On"
+msgstr ""
+
+#: styles/berry.json
+msgctxt "Style variation name"
+msgid "Berry"
+msgstr ""
+
+#: styles/berry.json
+#: styles/coffee.json
+#: styles/crimson.json
+#: styles/emerald.json
+#: styles/magenta.json
+#: styles/ocean.json
+#: styles/royal-blue.json
+#: styles/slate.json
+#: styles/violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/berry.json
+#: styles/coffee.json
+#: styles/crimson.json
+#: styles/emerald.json
+#: styles/magenta.json
+#: styles/ocean.json
+#: styles/royal-blue.json
+#: styles/slate.json
+#: styles/violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/berry.json
+#: styles/coffee.json
+#: styles/crimson.json
+#: styles/emerald.json
+#: styles/magenta.json
+#: styles/ocean.json
+#: styles/royal-blue.json
+#: styles/slate.json
+#: styles/violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Heading Color"
+msgstr ""
+
+#: styles/berry.json
+#: styles/coffee.json
+#: styles/crimson.json
+#: styles/emerald.json
+#: styles/magenta.json
+#: styles/ocean.json
+#: styles/royal-blue.json
+#: styles/slate.json
+#: styles/violet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/coffee.json
+msgctxt "Style variation name"
+msgid "Coffee"
+msgstr ""
+
+#: styles/crimson.json
+msgctxt "Style variation name"
+msgid "Crimson"
+msgstr ""
+
+#: styles/emerald.json
+msgctxt "Style variation name"
+msgid "Emerald"
+msgstr ""
+
+#: styles/magenta.json
+msgctxt "Style variation name"
+msgid "Magenta"
+msgstr ""
+
+#: styles/ocean.json
+msgctxt "Style variation name"
+msgid "Ocean"
+msgstr ""
+
+#: styles/royal-blue.json
+msgctxt "Style variation name"
+msgid "Royal Blue"
+msgstr ""
+
+#: styles/slate.json
+msgctxt "Style variation name"
+msgid "Slate"
+msgstr ""
+
+#: styles/violet.json
+msgctxt "Style variation name"
+msgid "Violet"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page With No Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archive posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Banner Overlay"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Nunito"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr ""

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Crimson",
+  "version": 2,
+  "settings": {
+    "color": {
+		"palette": [
+			{
+				"color": "#ffffff",
+				"name": "Contrast",
+				"slug": "contrast"
+			},
+			{
+				"color": "#DC2626",
+				"name": "Primary",
+				"slug": "primary"
+			},
+			{
+				"color": "#181518",
+				"name": "Heading Color",
+				"slug": "heading-color"
+			},
+			{
+				"color": "#000000",
+				"name": "Base",
+				"slug": "base"
+			}
+		]
+    }
+  }
+}
